@@ -2,3 +2,4 @@
 "Cap¡tulo 2: Flujo de trabajo b sico" 
 "Cap¡tulo 3: Gestión de Ramas"
 "Capitulo 4: Repositorios remotos"
+"Cap¡tulo 5: Conceptos avanzados" 
